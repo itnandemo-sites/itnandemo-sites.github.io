@@ -1,0 +1,37 @@
+body {
+  font-family: system-ui;
+  margin: 0;
+  padding: 0;
+}
+
+.top-links {
+  display: flex;
+  justify-content: space-between; /* 左右に分ける */
+  align-items: center;
+  background-color: #ffeb3b;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.top-links a {
+  text-decoration: none;
+  color: black;
+  margin-left: 15px; /* 右リンク同士の間隔 */
+}
+
+.top-links .right-links {
+  display: flex; /* 右側のリンクを横並びにする */
+}
+
+
+
+/* ヘッダー（残したい水色部分） */
+.hero {
+  background: lightblue;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+/* 下のページ本体（白部分） */
+.content
