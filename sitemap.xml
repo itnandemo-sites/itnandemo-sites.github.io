@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://itnandemo-sites.github.io/</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://itnandemo-sites.github.io/rule/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://itnandemo-sites.github.io/member/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+    <url>
+       <loc>https://itnandemo-sites.github.io/event/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+    <url>
+       <loc>https://itnandemo-sites.github.io/copyright/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+    <url>
+       <loc>https://itnandemo-sites.github.io/announce/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://itnandemo-sites.github.io/vhistory/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://itnandemo-sites.github.io/forms/index.html</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://itnandemo-sites.github.io/kahoot/</loc>
+       <lastmod>2026-10-31T09:33:26+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
